@@ -1,0 +1,78 @@
+.e49_2 { 
+	background-color:rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+	width:1924px;
+	height:1024px;
+	position:absolute;
+	overflow:hidden;
+}
+.e49_4 { 
+	background-color:rgba(13.000000175088644, 13.000000175088644, 13.000000175088644, 1);
+	width:1924px;
+	height:168px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e49_5 { 
+	background-color:rgba(13.000000175088644, 13.000000175088644, 13.000000175088644, 1);
+	width:227px;
+	height:856px;
+	position:absolute;
+	left:0px;
+	top:168px;
+}
+.e223_69 { 
+	width:93px;
+	height:78px;
+	position:absolute;
+	left:69px;
+	top:203px;
+	background-image:url(images/image_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* home button */
+}
+.e223_71 { 
+	width:91px;
+	height:86px;
+	position:absolute;
+	left:70px;
+	top:331px;
+	background-image:url(images/image_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* music button */
+}
+.e223_73 { 
+	width:78px;
+	height:71px;
+	position:absolute;
+	left:76px;
+	top:467px;
+	background-image:url(images/image_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* profile button */
+}
+.e223_75 { 
+	width:136px;
+	height:80px;
+	position:absolute;
+	left:47px;
+	top:39px;
+	background-image:url(images/image_6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* 3 dots ? XD button */
+}
+.e223_77 { 
+	width:446px;
+	height:88px;
+	position:absolute;
+	left:1434px;
+	top:40px;
+	background-image:url(images/image_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* logo  */
+}
