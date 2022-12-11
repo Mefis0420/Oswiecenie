@@ -1,9 +1,10 @@
+
 .e225_125 { 
+	overflow:hidden;
 	background-color:rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
 	width:1924px;
 	height:1024px;
 	position:absolute;
-	overflow:hidden;
 }
 .e225_126 { 
 	background-color:rgba(13.000000175088644, 13.000000175088644, 13.000000175088644, 1);
@@ -91,18 +92,6 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e80_305 { 
-	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
-	width:241px;
-	height:236px;
-	position:absolute;
-	left:482px;
-	top:383px;
-	border-top-left-radius:10px;
-	border-top-right-radius:10px;
-	border-bottom-left-radius:10px;
-	border-bottom-right-radius:10px;
-}
 .e80_311 { 
 	background-color:rgba(55.24999290704727, 207.05994844436646, 255, 1);
 	width:232px;
@@ -123,14 +112,6 @@
 	left:509px;
 	top:242px;
 	border-radius:40px;
-}
-.e80_291 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:50px;
-	height:50px;
-	position:absolute;
-	left:1096px;
-	top:267px;
 }
 .e80_292 { 
 	color:rgba(0, 0, 0, 1);
@@ -287,15 +268,6 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e80_306 { 
-	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
-	width:91px;
-	height:150.5px;
-	position:absolute;
-	left:632.5px;
-	top:470px;
-	border:20px solid rgba(0, 0, 0, 1);
-}
 .e80_307 { 
 	border:1px solid rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
 	width:26px;
@@ -304,40 +276,23 @@
 	left:688px;
 	top:619.5px;
 }
-.e80_308 { 
-	color:rgba(0, 0, 0, 1);
-	width:105px;
-	height:39px;
+.e240_3 { 
+	width:227px;
+	height:220px;
 	position:absolute;
-	left:497px;
-	top:470px;
-	font-family:Inter;
-	text-align:left;
-	font-size:32px;
-	letter-spacing:0;
+	left:478px;
+	top:381px;
+	background-image:url(images5/image_12.png);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
-.e80_309 { 
-	color:rgba(0, 0, 0, 1);
-	width:122px;
-	height:38px;
+.e240_9 { 
+	width:70px;
+	height:74px;
 	position:absolute;
-	left:497px;
-	top:439px;
-	font-family:Inter;
-	text-align:left;
-	font-size:32px;
-	letter-spacing:0;
-}
-.e80_310 { 
-	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
-	color:rgba(0, 0, 0, 1);
-	width:166px;
-	height:39px;
-	position:absolute;
-	left:497px;
-	top:406px;
-	font-family:Inter;
-	text-align:left;
-	font-size:32px;
-	letter-spacing:0;
+	left:1087px;
+	top:255px;
+	background-image:url(images5/image_13.png);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
