@@ -4,11 +4,11 @@ na weekend mamy plany zeby wyjsc z bety jak polska z grupy xD
 
 # Rozpiska kto co zrobil
 
-Mateusz : Figma + Przeniesienie jej na kod
+Mateusz : Figma + Przeniesienie jej na kod + pozniejsze poprawki figmy
 
-Bartek : Figma + Funkcje onclick + minimalnie poprawienie kodu Sadocha
+Bartek : Figma + Funkcje onclick + minimalnie poprawienie wizualnie kodu Sadocha 
 
-Tomasz : Muzyka (pobranie piosenek Xd) + Figma
+Tomasz : Muzyka (pobranie piosenek XD) + Figma
 
-Lukasz : zrobil jedna strone w figmie. Chyba XD
+Lukasz : zrobil jedna strone w figmie + Zaczal ale nie  skonczyl playera
 wizualna czesc music bara
