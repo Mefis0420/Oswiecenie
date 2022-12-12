@@ -4,9 +4,9 @@ na weekend mamy plany zeby wyjsc z bety jak polska z grupy xD
 
 # Rozpiska kto co zrobil
 
-Mateusz : Figma + Przeniesienie jej na kod + pozniejsze poprawki figmy
+Mateusz : Figma + Przeniesienie jej na kod + pozniejsze poprawki figmy + Funkcje onclick
 
-Bartek : Figma + Funkcje onclick + minimalnie poprawienie wizualnie kodu Sadocha. Finalnie nieudane 
+Bartek : Figma + minimalnie poprawienie wizualnie kodu.
 
 Tomasz : Muzyka (pobranie piosenek XD) + Figma
 
