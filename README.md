@@ -6,8 +6,8 @@ na weekend mamy plany zeby wyjsc z bety jak polska z grupy xD
 
 Mateusz : Figma + Przeniesienie jej na kod
 
-Bartek : Figma + Funkcje onclick
+Bartek : Figma + Funkcje onclick + minimalnie poprawienie kodu Sadocha
 
-Tomasz : Muzyka + Figma
+Tomasz : Muzyka (pobranie piosenek Xd) + Figma
 
 Lukasz : zrobil jedna strone w figmie. Chyba XD
