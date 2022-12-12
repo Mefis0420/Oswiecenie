@@ -11,3 +11,4 @@ Bartek : Figma + Funkcje onclick + minimalnie poprawienie kodu Sadocha
 Tomasz : Muzyka (pobranie piosenek Xd) + Figma
 
 Lukasz : zrobil jedna strone w figmie. Chyba XD
+wizualna czesc music bara
